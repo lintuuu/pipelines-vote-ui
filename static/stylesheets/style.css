@@ -28,16 +28,16 @@ button i{
 }
 
 button.a{
-  background-color: #e00;
+  background-color: #5882FA;
 }
 
 button.b{
-  background-color: #959595;
+  background-color: #FF0080;
 }
 
 #tip{
   text-align: left;
-  color: #c0c9ce;
+  color: #151515;
   font-size: 14px;
 }
 
